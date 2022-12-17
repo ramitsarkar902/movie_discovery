@@ -143,6 +143,7 @@ function App() {
                 top: "65px",
                 position: "absolute",
                 height: "100vh",
+                bottom: 0,
                 width: "100%",
                 display: "flex",
                 alignItems: "center",
